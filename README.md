@@ -1,5 +1,9 @@
-# PHP-Login-Registration-System
-A simple PHP-based login and registration system with session handling, password hashing, and MySQL database integration. Includes user authentication, alert messages, and a responsive modal UI.
+# Login & Registration Modal – PHP + MySQL
+
+A modern and responsive authentication system built with **PHP**, **MySQL**, **HTML**, **CSS**, and **JavaScript**.  
+It features a sleek glassmorphism design with animated modals for login and registration, user session handling, and alert notifications.
+
+---
 
 ## 🚀 Features
 
@@ -31,5 +35,6 @@ A simple PHP-based login and registration system with session handling, password
  ├── script.js
  ├── user_db.sql
  └── README.md
+
 
 
